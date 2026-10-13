@@ -1,0 +1,8 @@
+{
+  "name": "SafeHaven AI",
+  "description": "Early Disaster Response & Logistics Orchestrator featuring multimodal AI triage, geospatial intelligence, evacuation routing, and multilingual emergency communications for emergency operations centers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
